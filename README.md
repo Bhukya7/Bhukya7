@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on AI/ML<br><br>🌱 I’m currently learning Generative AI<br><br>👯 I’m looking to collaborate with other Developers 😉<br><br>🥅 2024 Goals: Contribute to Open Source projects<br><br>🧗 I try to: Go beyond and push the bounds<br><br>💬 Ask me about anything, I am happy to help 😄<br><br>📫 How to reach me: [Let's get in touch!][linkedin]<br><br>⚡ Fun fact I love connecting with different people 🙌
+🔭 **Currently working on AI/ML** 🤖📊  <br>🌱 **Learning Generative AI** 🎨🤖  <br>👯 **Looking to collaborate with developers** 🤝💻  <br>🥅 **2024 Goal: Contribute to Open Source** 🌍📂  <br>🧗 **Always pushing boundaries** 🚀🔥  <br>💬 **Ask me anything! Happy to help** 😄📣  <br>📫 **Let’s connect!** [LinkedIn][linkedin] 🤝🌐  <br>⚡ **Fun fact: I love connecting with people** 🙌🌟
 
 
 ## 🌐 Socials:
