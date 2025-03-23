@@ -1,3 +1,5 @@
+# Hi👋, I'm Bhukya Ganesh
+
 # 💫 About Me:
 🔭 **Currently working on AI/ML** 🤖📊  <br>🌱 **Learning Generative AI** 🎨🤖  <br>👯 **Looking to collaborate with developers** 🤝💻  <br>🥅 **2024 Goal: Contribute to Open Source** 🌍📂  <br>🧗 **Always pushing boundaries** 🚀🔥  <br>💬 **Ask me anything! Happy to help** 😄📣  <br>📫 **Let’s connect!** [linkedin] 🤝🌐  <br>⚡ **Fun fact: I love connecting with people** 🙌🌟
 
